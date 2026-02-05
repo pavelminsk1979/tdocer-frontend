@@ -1,4 +1,4 @@
-@import "tailwindcss";
+@tailwind utilities;
 
 body {
     background: #e6e2e2;
